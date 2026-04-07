@@ -1,7 +1,11 @@
 aid: ingles-markets
-url: https://raw.githubusercontent.com/api-evangelist/ingles-markets/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/ingles-markets/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.ingles-markets.com
+description: >-
+  Keep up-to-date with your local Ingles Market, store specials and savings, please
+  select your home store.
