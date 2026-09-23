@@ -1,7 +1,9 @@
 ---
 title: Ingles Markets holder Summer Road says candidate Rory ...
 url: https://seekingalpha.com/news/4583031-ingles-markets-holder-summer-road-says-candidate-rory-held-elected-to-board
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ingles Markets" press release artificial intelligence'
 position: 4
 source: serpapi-google

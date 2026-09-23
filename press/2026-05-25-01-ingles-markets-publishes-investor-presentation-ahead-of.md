@@ -1,7 +1,9 @@
 ---
 title: Ingles Markets publishes investor presentation ahead of ...
 url: https://www.sahmcapital.com/news/content/ingles-markets-publishes-investor-presentation-ahead-of-annual-meeting-2026-04-13
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ingles Markets" press release artificial intelligence'
 position: 1
 source: serpapi-google

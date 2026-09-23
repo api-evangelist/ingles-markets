@@ -1,7 +1,9 @@
 ---
 title: Ingles Markets Inc (IMKTA) Stock Price, Trades & News
 url: https://www.gurufocus.com/stock/IMKTA/summary
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Ingles Markets" press release artificial intelligence'
 position: 5
 source: serpapi-google
